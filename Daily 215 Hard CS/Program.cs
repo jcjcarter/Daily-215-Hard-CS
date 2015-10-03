@@ -32,6 +32,12 @@ namespace Daily_215_Hard_CS
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// The printTruthiness.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public string PrintTruthiness<T>(T input) {
             try
             {
@@ -41,7 +47,12 @@ namespace Daily_215_Hard_CS
                 return "Cannot convert to a Boolean value.";
             }
         }
-
+        /// <summary>
+        /// The truthiness.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public bool Truthiness<T>(T input) {
             try
             {
