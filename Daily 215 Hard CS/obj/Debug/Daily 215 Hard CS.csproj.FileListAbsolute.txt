@@ -1,0 +1,6 @@
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CS\Daily 215 Hard CS\bin\Debug\Daily 215 Hard CS.exe.config
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CS\Daily 215 Hard CS\bin\Debug\Daily 215 Hard CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CS\Daily 215 Hard CS\bin\Debug\Daily 215 Hard CS.pdb
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CS\Daily 215 Hard CS\obj\Debug\Daily 215 Hard CS.csprojResolveAssemblyReference.cache
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CS\Daily 215 Hard CS\obj\Debug\Daily 215 Hard CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CS\Daily 215 Hard CS\obj\Debug\Daily 215 Hard CS.pdb
